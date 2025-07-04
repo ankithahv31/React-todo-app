@@ -20,7 +20,7 @@ A clean and simple React-based To-Do List application that helps users manage th
 
 ## 🚀 Live Demo
 
-🌐 [Visit App on Netlify](https://idyllic-pixie-36a37c.netlify.app/)
+🌐 https://react-tasks-board.netlify.app/
 
 ## 📸 Screenshot
 
