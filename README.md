@@ -22,8 +22,7 @@ A clean and simple React-based To-Do List application that helps users manage th
 
 ## 📸 Screenshot
 
-![Screenshot](./screenshot.png) <!-- Add a screenshot image to your repo -->
-
+<img width="1915" height="951" alt="Image" src="https://github.com/user-attachments/assets/e1286349-ef65-409b-8ac5-c78d59438ef4" />
 ## 📦 Getting Started
 
 ### Installation
