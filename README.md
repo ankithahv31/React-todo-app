@@ -34,4 +34,4 @@ git clone https://github.com/your-username/react-todo-app.git
 cd react-todo-app
 npm install
 npm run dev  # or npm start if using CRA
->>>>>>> c02b5f4437f5d43e452c685464b50738e25f9bf7
+
